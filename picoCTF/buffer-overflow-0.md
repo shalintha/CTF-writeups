@@ -11,7 +11,7 @@ A compiled binary (`vuln`)
 The source code (`vuln.c`)
 
 
-![Image description](assets/buffer-overflow-0.png)
+![Image description](https://github.com/shalintha/CTF-writeups/blob/master/assets/buffer-overflow-0.png)
 
 ## Understanding the Challenge
 The challenge gives us a binary file (`vuln`) and its source code (`vuln.c`). The goal is to exploit a buffer overflow vulnerability to change a variable's value and make the program reveal the flag. Sounds fun, right? Let's get started!
