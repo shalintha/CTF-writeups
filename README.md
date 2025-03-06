@@ -6,5 +6,4 @@ Welcome to my collection of CTF and bug bounty writeups! Here, I document my jou
   - [Buffer Overflow 0](#buffer-overflow-0)
 
 ## picoCTF
-### Buffer Overflow 0
-[Writeup](picoCTF/buffer-overflow-0.md)
+### Buffer Overflow 0 - [Writeup](picoCTF/buffer-overflow-0.md)
